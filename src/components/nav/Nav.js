@@ -9,7 +9,7 @@ import { MdOutlineMessage } from 'react-icons/md'
 const Nav = () => {
   return (
     <nav>
-      <a href='#home'> <AiOutlineHome /> </a>
+      <a href='#' className='active'> <AiOutlineHome /> </a>
       <a href='#about'> <AiOutlineUser /> </a>
       <a href='#experience'> <BiBook /> </a>
       <a href='#services'> <RiServiceLine /> </a>
