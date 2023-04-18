@@ -1,6 +1,7 @@
 import React from 'react'
 import './Header.css'
 import CTA from './CTA'
+import imagenCV from '../../assets/imagenCV.png'
 
 const Header = () => {
   return (
@@ -10,6 +11,11 @@ const Header = () => {
         <h5 className='text-light'> Fullstack Developer - Fronted - Reactjs</h5>
         <CTA />
       </div>
+      <div className='me'>
+        <img src={imagenCV} alt='imagenCV'/>
+      </div>
+      
+      <a href='#contact' className='scroll__down'> Bajar </a>
     </header>
   )
 }
