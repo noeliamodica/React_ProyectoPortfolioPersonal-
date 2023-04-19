@@ -35,3 +35,35 @@
     color: var(--color-light);
 }
 
+.about_content p {
+    margin: 2rem 0.6rem 2.6rem;
+    color: var(--color-light);
+}
+
+/* media queries - medium devices */
+
+@media screen and (max-width: 1024px) {
+    .about_content{
+        grid-template-columns: 1fr;
+        gap: 0;
+    }
+    .about_content p{
+        margin: 1rem 0 1.5rem;
+   
+   }
+}
+    
+  /* media queries - small devices */
+  
+@media screen and (max-width: 600px) {
+    .about_content{
+        text-align: center;
+    }
+     .about_cards{
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;   
+    }   
+    .about_content p{
+        margin: 1.5rem 0; 
+   } 
+  }
