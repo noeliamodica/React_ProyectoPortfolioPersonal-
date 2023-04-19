@@ -5,9 +5,20 @@ header {
 }
 
 .header_container {
+    display: grid;
+    grid-template-columns: 35% 50%;
+    gap: 15%;
     text-align: center;
     height: 100%;
     position: relative;
+}
+
+.header_contain {
+    width: 100%;
+    aspect-ratio: 1/1;
+    border-radius: 2rem;
+    display: grid;
+    place-items: center;
 }
 
 /* CTA */
@@ -48,9 +59,10 @@ header {
     left: 50%;
     transform: translateX(-50%);
     margin: 4rem;
-    border-radius: 12rem 12rem 12rem ;
+    border-radius: 2rem;
     overflow: hidden;
-    padding: 5rem 1.5rem 1.5 rem ;
+    transform: rotate(10deg);
+    
 }
 
 /* scroll */
