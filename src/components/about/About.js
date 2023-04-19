@@ -26,12 +26,15 @@ const About = () => {
         <h5> Experiencia </h5>
         <small> 2 </small>
         </article>
+        </div>
 
-        <p> Lorem ipsum  </p>
-
+        <p> Lorem ipsum bkanknaslknslknlksndfklnsniononfknlsns
+          smls;m;s
+          smls;m;ms;dmlfknslkdmfmlkfmrpomfpromprmfprmfprmpfmprmf
+          mforpmfrpmfmrpmfrp smldmsd;lms smdls;dm;sldm;sd sdmls;dm;smd;sd ms;dm;sdm;smd;msld
+        </p>        
+      
         <a href='#contact' className='btn btn-primary'> Contactarme </a>
-      </div>
-
     </div>
     </section>
   )
