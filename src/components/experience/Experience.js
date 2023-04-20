@@ -10,15 +10,15 @@ const Experience = () => {
       <h3> Aptitudes </h3>
       <div className='experience_content'> 
       <article className='experience_details'> 
-      <BsFillPatchCheckFill />
+      <BsFillPatchCheckFill className='experiencie_details_icon' />
       <h4> HTML </h4>
       </article>
       <article className='experience_details'> 
-      <BsFillPatchCheckFill />
+      <BsFillPatchCheckFill className='experiencie_details_icon' />
       <h4> CSS </h4>
       </article>
       <article className='experience_details'> 
-      <BsFillPatchCheckFill />
+      <BsFillPatchCheckFill className='experiencie_details_icon'/>
       <h4> JavasCript </h4>
       </article>
       </div>
