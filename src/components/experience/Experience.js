@@ -21,6 +21,14 @@ const Experience = () => {
       <BsFillPatchCheckFill className='experiencie_details_icon'/>
       <h4> JavasCript </h4>
       </article>
+      <article className='experience_details'> 
+      <BsFillPatchCheckFill className='experiencie_details_icon'/>
+      <h4> JavasCript </h4>
+      </article>
+      <article className='experience_details'> 
+      <BsFillPatchCheckFill className='experiencie_details_icon'/>
+      <h4> JavasCript </h4>
+      </article>
       </div>
 
     
