@@ -20,8 +20,8 @@
   background: linear-gradient(to right, #FFFFFF, #FFEFBA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 
-  --color-bg-variant: #9bc5c3;
-  --color-primary: #4ECDC4;
+  --color-bg-variant: #99f2c8;
+  --color-primary: #99f2c8; 
   --color-primary-variant: #616161;
   --color-white: #434343;
   --color-light: #414345;

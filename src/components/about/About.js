@@ -1,9 +1,9 @@
 import React from 'react'
 import './About.css'
-import { FaAward } from 'react-icons/fa'
-import { FiUsers } from 'react-icons/fi'
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
+import { FaPython } from 'react-icons/fa'
+import {SiJavascript} from 'react-icons/si'
 
 
 const About = () => {
@@ -31,17 +31,18 @@ const About = () => {
   return (
     <section id='about'> 
     <h2> Acerca de mi </h2>
-    <div className='container'>
+    <div className='container-about'>
     <div className="row">
                <div className="col-12">
-                  <div className="skill-bx wow zoomIn">
+                  <div className="contain-about">
                      <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                         <div className="item">
-                        
+                          <SiJavascript/>
                           <h3> Programadora Full Stack </h3>
                            <h5> Digital House</h5>
                         </div>
                         <div className="item">
+                          <FaPython />
                         <h3> Python  </h3>
                            <h5> Coderhouse </h5>
                         </div>
@@ -53,7 +54,7 @@ const About = () => {
                         <div className="item">
                            
                         <h3> Esp en Tributacion Internacional </h3>
-                           <h5> Universidad Complutense de Madrid - Universidad de Buenos Aires</h5>
+                           <h5> Universidad Complutense de Madrid - UBA</h5>
                         </div>
                         
                         <div className="item">

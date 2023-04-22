@@ -1,24 +1,23 @@
-.about_content {
-    display: grid;
-    
+.container-about {
+    padding: 0 0 50px 0;
+    position: relative;
 }
 
-.about_cards {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1.5rem;
-}
 
-.about_card {
-    background: var(--color-bg-variant);
-    border: 1px solid transparent;
-    border-radius: 1rem;
-    padding: 2rem;
+.item {
+    background: #4AC29A;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #BDFFF3, #4AC29A);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #BDFFF3, #4AC29A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    border: 3px  transparent ;
+    border-radius: 2rem;
+    padding: 3rem;
     text-align: center;
     transition: var(--transition);
+    opacity: 0.87;
 }
 
-.about_card:hover{
+.item:hover{
     background: transparent;
     border-color: var(--color-primary-variant);
     cursor: default;
@@ -30,15 +29,12 @@
     margin-bottom: 1rem;
 }
 
-.about_card h5 {
-    font-size: 0.7rem;
+.item h3 {
+    font-size: 1.3rem;
     color: var(--color-light);
 }
 
-.about_content p {
-    margin: 2rem 0.6rem 2.6rem;
-    color: var(--color-light);
-}
+
 
 /* media queries - medium devices */
 
