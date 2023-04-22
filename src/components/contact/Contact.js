@@ -10,7 +10,7 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_iaxp3oh', 'template_o1fc3et', form.current, 'YOUR_PUBLIC_KEY')
+    emailjs.sendForm('service_iaxp3oh', 'template_o1fc3et', form.current, 'k1BZ8a9tHeE3_v6pe')
       .then((result) => {
           console.log(result.text);
       }, (error) => {
