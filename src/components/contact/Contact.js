@@ -18,11 +18,16 @@ const Contact = () => {
       <article className='contact_option'>
         <BsWhatsapp />
         <h4> Whatsapp </h4>
-        <h5> +543875733755 </h5>
         <a href='https:/api.whatsapp.com/send?phone=+543875733755'> Enviame un Whatsapp </a>
       </article>
-      
       </div> 
+
+      <form action=''>
+        <input type='text' name='name' placeholder='Ingrese su nombre' required/>  
+        <input type='email' name='email' placeholder='Ingrese su email' required />
+        <textarea name='message' rows='7'placeholder='Deje su mensaje' required> </textarea>
+        <button type='submit' className='btn btn-primary'> Enviar mensaje </button>
+      </form>
 
     </div>
 
