@@ -10,12 +10,13 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_iaxp3oh', 'template_o1fc3et', form.current, 'k1BZ8a9tHeE3_v6pe')
+    emailjs.sendForm('service_iaxp3oh', 'template_o1fc3et', form.current, 'k1BZ8a9tHeE3_v6pegi')
       .then((result) => {
           console.log(result.text);
       }, (error) => {
           console.log(error.text);
       });
+    e.target.reset()
   };
   return (
     <section id='contact'> Contact 
