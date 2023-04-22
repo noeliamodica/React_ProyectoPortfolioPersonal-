@@ -10,13 +10,13 @@ const Contact = () => {
     <div className='container contact_container'>
       <div className='contact_options'> 
       <article className='contact_option'>
-        <MdOutlineEmail />
+        <MdOutlineEmail  className='contact_option-icon'/>
         <h4> Email </h4>
         <h5> noeliamodica@gmail.com </h5>
         <a href='mailto:noeliamodica@gmail.com'> Enviame un mail </a>
       </article>
       <article className='contact_option'>
-        <BsWhatsapp />
+        <BsWhatsapp className='contact_option-icon' />
         <h4> Whatsapp </h4>
         <a href='https:/api.whatsapp.com/send?phone=+543875733755'> Enviame un Whatsapp </a>
       </article>
