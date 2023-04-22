@@ -15,16 +15,16 @@
 
 :root{
   
-  background: #bdc3c7;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #FFEFBA;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #FFFFFF, #FFEFBA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 
-  --color-bg-variant: #2c2c6c;
-  --color-primary: #4db5ff;
-  --color-primary-variant: rgba(77, 181, 255, 0.4);
-  --color-white: #fff;
-  --color-light: rgba(255, 255, 255, 1.5);
+  --color-bg-variant: #9bc5c3;
+  --color-primary: #4ECDC4;
+  --color-primary-variant: #616161;
+  --color-white: #434343;
+  --color-light: #414345;
 
   --transition: all 400ms ease;
 
@@ -71,16 +71,17 @@ section{
 
 section > h2, section > h5{
   text-align: center;
-  color: var(--color-light);
+  color: var(--color-primary);
 }
 
 section > h2{
-  color: var(--color-primary);
+  color: #394d4c;
   margin-bottom: 3rem;
 }
 
 .text-light{
   color: var(--color-light);
+  font-size: 16px;
 }
 
 a {
