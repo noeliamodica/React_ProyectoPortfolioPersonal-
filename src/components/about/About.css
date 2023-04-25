@@ -9,9 +9,9 @@
 background: -webkit-linear-gradient(to left, #BDFFF3, #86c6b1);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to left, #BDFFF3, #85c0ac); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
-    border: 1.6px  transparent ;
-    border-radius: 30rem;
-    padding: 2rem;
+    border: 1.3px  transparent ;
+    border-radius: 60rem;
+    padding: 1.1rem;
     text-align: center;
     transition: var(--transition);
     opacity: 0.87;
@@ -21,6 +21,7 @@ background: linear-gradient(to left, #BDFFF3, #85c0ac); /* W3C, IE 10+/ Edge, Fi
     background: transparent;
     border-color: var(--color-primary-variant);
     cursor: default;
+    font-style: oblique;
 }
 
 .item-icon{
