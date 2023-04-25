@@ -17,11 +17,30 @@
       "github": "https://github.com/noeliamodica/React_ProyectoTestimonios"
     },
     {
-      "name": "Noelial",
-      "email": "prueba3@gmail.com",
-      "password": "1234567899",
-      "password2": "1234567899"
+      "id": 3,
+      "nombre": "Calculadora",
+      "imagen": "",
+      "descripcion": "calculadora",
+      "base": "react, javascript, css ",
+      "github": "https://github.com/noeliamodica/reactCalculadora"
+    },
+    {
+      "id": 4,
+      "nombre": "Lista de tareas",
+      "imagen": "",
+      "descripcion": "lista de tareas con opcion de editar y eliminar las mismas",
+      "base": "react, javascript, css ",
+      "github": "https://github.com/noeliamodica/React_ProyectoListaDeTareas"
+    },
+    {
+      "id": 5,
+      "nombre": "Selector de emojis",
+      "imagen": "",
+      "descripcion": "permite seleccionar e incorporar emojis dentro de un chat",
+      "base": "react, javascript, css ",
+      "github": "https://github.com/noeliamodica/React_ProyectoSelectorDeEmojis"
     }
+
   ],
   "projects": [
     {
@@ -34,13 +53,11 @@
     },
     {
       "id": 2,
-      "nombre": "Cala",
-      "base": "Rúcula y fideos(penne rigatti)",
-      "aderezo": "Mostaza y miel",
-      "ingredientes": "Rúcula, penne rigatti, pollo, tomates secos, nueces, queso azul y aderezo de mostaza y miel.",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnRm1Z1J-UlC5XIapV3u02kWtghoyc7xLs1fKLywWLFjtzHe4RumD5RoLRLFVENquq2U8&usqp=CAU",
-      "precio": 850,
-      "status": "MasVendido"
+      "nombre": "Biblioteca digital",
+      "imagen": "",
+      "descripcion": "Es una base de datos  uso del personal de la misma, ya que iniciando sesion se puede consultar, editar y eliminar datos de los mismos.",
+      "base": "python, django",
+      "github": "https://github.com/noeliamodica/React_ProyectoBibliotecaDeLibros"
     },
     {
       "id": 3,
