@@ -37,12 +37,12 @@ const About = () => {
                   <div className="contain-about">
                      <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                         <div className="item">
-                          <SiJavascript/>
+                          <SiJavascript className='item-icon'/>
                           <h3> Programadora Full Stack </h3>
                            <h5> Digital House</h5>
                         </div>
                         <div className="item">
-                          <FaPython />
+                          <FaPython className='item-icon'/>
                         <h3> Python  </h3>
                            <h5> Coderhouse </h5>
                         </div>

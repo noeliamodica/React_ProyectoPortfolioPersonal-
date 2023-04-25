@@ -16,12 +16,12 @@
 :root{
   
   background: #FFEFBA;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #FFFFFF, #FFEFBA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(to right, #FFFFFF, #cfc8b1);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFFFFF, #dfdeda); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 
-  --color-bg-variant: #99f2c8;
-  --color-primary: #99f2c8; 
+  --color-bg-variant: #c3d7ce;
+  --color-primary: #9ae2c0; 
   --color-primary-variant: #616161;
   --color-white: #434343;
   --color-light: #414345;

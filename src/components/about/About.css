@@ -6,12 +6,12 @@
 
 .item {
     background: #4AC29A;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to left, #BDFFF3, #4AC29A);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to left, #BDFFF3, #4AC29A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(to left, #BDFFF3, #86c6b1);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #BDFFF3, #85c0ac); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
-    border: 3px  transparent ;
-    border-radius: 2rem;
-    padding: 3rem;
+    border: 1.6px  transparent ;
+    border-radius: 30rem;
+    padding: 2rem;
     text-align: center;
     transition: var(--transition);
     opacity: 0.87;
@@ -23,10 +23,19 @@ background: linear-gradient(to left, #BDFFF3, #4AC29A); /* W3C, IE 10+/ Edge, Fi
     cursor: default;
 }
 
-.about_icon{
-    color: var(--color-primary);
+.item-icon{
+    width: 1.8rem;
+    height: 1.8rem;
+    color: #3C3B3F;
     font-size: 1.4rem;
     margin-bottom: 1rem;
+}
+
+.item-icon:hover{   
+    color: var(--color-primary);
+    width: 1.9rem;
+    height: 1.9rem;
+
 }
 
 .item h3 {
