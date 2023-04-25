@@ -36,7 +36,6 @@ background: linear-gradient(to left, #BDFFF3, #85c0ac); /* W3C, IE 10+/ Edge, Fi
     color: var(--color-primary);
     width: 1.9rem;
     height: 1.9rem;
-
 }
 
 .item h3 {

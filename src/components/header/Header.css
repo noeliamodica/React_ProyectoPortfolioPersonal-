@@ -30,6 +30,10 @@ header {
     justify-content: center;
 }
 
+.cta:hover {
+    color: transparent;
+}
+
 /* header social */
 
 .header_socials {

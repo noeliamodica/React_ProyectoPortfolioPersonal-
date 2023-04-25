@@ -37,7 +37,10 @@ const Experience = () => {
       <BsFillPatchCheckFill className='experiencie_details_icon'/>
       <h4> Django </h4>
       </article>
-    
+      <article className='experience_details'> 
+      <BsFillPatchCheckFill className='experiencie_details_icon'/>
+      <h4> MySQL </h4>
+      </article>
       </div>
 
     
