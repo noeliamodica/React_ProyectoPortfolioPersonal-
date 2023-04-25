@@ -1,11 +1,14 @@
 .experience_container {
+    
     display: grid;
     grid-template-columns: 1fr;
     gap: 2rem;
 }
 
 .experience_container > div{
-    background: var(--color-bg-variant);
+    background: #4AC29A;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #BDFFF3, #86c6b1);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #BDFFF3, #85c0ac); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     padding: 2.4rem 5rem;
     border-radius: 2rem;
     border: 1px solid transparent;
@@ -26,7 +29,7 @@
 
 .experience_content {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr ;
     row-gap: 2rem;    
 }
 
@@ -35,8 +38,12 @@
     gap: 1rem;
 }
 
-.experiencie_details_icon{
+.xperiencie_details_icon{
     margin-top: 6px;
+    color: #3C3B3F;
+}
+
+.experiencie_details_icon:hover{
     color: var(--color-primary);
 }
 

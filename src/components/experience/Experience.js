@@ -7,7 +7,7 @@ const Experience = () => {
     <section id='experience'> 
     <h2> Mi experiencia </h2>
     <div className='container experience_container'>
-      <h3> Aptitudes </h3>
+      
       <div className='experience_content'> 
       <article className='experience_details'> 
       <BsFillPatchCheckFill className='experiencie_details_icon' />
@@ -23,12 +23,21 @@ const Experience = () => {
       </article>
       <article className='experience_details'> 
       <BsFillPatchCheckFill className='experiencie_details_icon'/>
-      <h4> JavasCript </h4>
+      <h4> Node </h4>
       </article>
       <article className='experience_details'> 
       <BsFillPatchCheckFill className='experiencie_details_icon'/>
-      <h4> JavasCript </h4>
+      <h4> React </h4>
       </article>
+      <article className='experience_details'> 
+      <BsFillPatchCheckFill className='experiencie_details_icon'/>
+      <h4> Python </h4>
+      </article>
+      <article className='experience_details'> 
+      <BsFillPatchCheckFill className='experiencie_details_icon'/>
+      <h4> Django </h4>
+      </article>
+    
       </div>
 
     
