@@ -39,6 +39,14 @@
       "descripcion": "permite seleccionar e incorporar emojis dentro de un chat",
       "base": "react, javascript, css ",
       "github": "https://github.com/noeliamodica/React_ProyectoSelectorDeEmojis"
+    },
+    {
+      "id": 6,
+      "nombre": "Buscador",
+      "imagen": "",
+      "descripcion": "Barra de busqueda de personas, eventos y emails filtrando por categorias ",
+      "base": "react, javascript, css",
+      "github": "https://github.com/noeliamodica/React_ProyectoBuscador"
     }
 
   ],
@@ -53,6 +61,14 @@
     },
     {
       "id": 2,
+      "nombre": "Lima ensaladas",
+      "imagen": "",
+      "descripcion": "Local de venta de ensaladas",
+      "base": "javascript, html, css, mysql",
+      "github": "https://github.com/noeliamodica/LimaEnsaladasProyectoIntegral"
+    },
+    {
+      "id": 3,
       "nombre": "Biblioteca digital",
       "imagen": "",
       "descripcion": "Es una base de datos  uso del personal de la misma, ya que iniciando sesion se puede consultar, editar y eliminar datos de los mismos.",
