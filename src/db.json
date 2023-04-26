@@ -47,6 +47,14 @@
       "descripcion": "Barra de busqueda de personas, eventos y emails filtrando por categorias ",
       "base": "react, javascript, css",
       "github": "https://github.com/noeliamodica/React_ProyectoBuscador"
+    },
+    {
+      "id": 7,
+      "nombre": "E-commerce",
+      "imagen": "",
+      "descripcion": "Pagina web similar a Mercado Libre",
+      "base": "javascript,html, css",
+      "github": "https://github.com/noeliamodica/ml"
     }
 
   ],
@@ -72,28 +80,24 @@
       "nombre": "Biblioteca digital",
       "imagen": "",
       "descripcion": "Es una base de datos  uso del personal de la misma, ya que iniciando sesion se puede consultar, editar y eliminar datos de los mismos.",
-      "base": "python, django",
+      "base": "react, javascript, css",
       "github": "https://github.com/noeliamodica/React_ProyectoBibliotecaDeLibros"
     },
     {
-      "id": 3,
-      "nombre": "Caesar",
-      "base": "Mix de verdes",
-      "aderezo": "Caesar",
-      "ingredientes": "Mix de verdes, pollo, croûtons, queso sardo rayado, tomates cherrys y aderezo caesar.",
-      "imagen": "https://www.goodnes.com/sites/g/files/jgfbjl321/files/srh_recipes/755f697272cbcdc6e5df2adb44b1b705.jpg",
-      "precio": 850,
-      "status": "MasVendido"
+      "id": 4,
+      "nombre": "Movies",
+      "imagen": "",
+      "descripcion": "Web de muestreo de peliculas similar a Netflix",
+      "base": "react, javascript, css",
+      "github": "https://github.com/noeliamodica/React_ProyectoMovies"
     },
     {
-      "id": 4,
-      "nombre": "Crispy",
-      "base": "Mix de verdes",
-      "aderezo": "Caesar",
-      "ingredientes": "Mix de verdes, pollo rebozado con pan rallado y copos de maiz, croûtons, queso sardo rayado, tomates cherrys y aderezo caesar.",
-      "imagen": "https://www.goodnes.com/sites/g/files/jgfbjl321/files/srh_recipes/755f697272cbcdc6e5df2adb44b1b705.jpg",
-      "precio": 850,
-      "status": "MasVendido"
+      "id": 5,
+      "nombre": "Books Shop",
+      "imagen": "",
+      "descripcion": "Web de venta de libros",
+      "base": "react, javascript, css",
+      "github": "https://github.com/noeliamodica/React_ProyectoBooksShop"
     },
     {
       "id": 5,
