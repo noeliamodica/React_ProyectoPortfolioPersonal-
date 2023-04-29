@@ -63,7 +63,24 @@
       "descripcion": "E-commerce",
       "base": "react redux, react, javascript, css",
       "github": "https://github.com/noeliamodica/React_ProyectoLoginconRedux"
+    },
+    {
+      "id": 9,
+      "nombre": "Login con firabase",
+      "imagen": "",
+      "descripcion": "Proceso de register y login con firabase",
+      "base": "firabase, react, javascript, css",
+      "github": "https://github.com/noeliamodica/React_ProyectoLoginConFirebase"
+    },
+    {
+      "id": 10,
+      "nombre": "React Native con Expo",
+      "imagen": "",
+      "descripcion": "App para registro de notas personales con proceso de registro y login en firabase",
+      "base": "firabase, react native, javascript, css",
+      "github": "https://github.com/noeliamodica/React_Native-ProyectoconFirebase/tree/main"
     }
+    
 
 
   ],
