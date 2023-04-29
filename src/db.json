@@ -55,7 +55,16 @@
       "descripcion": "Pagina web similar a Mercado Libre",
       "base": "javascript,html, css",
       "github": "https://github.com/noeliamodica/ml"
+    },
+    {
+      "id": 8,
+      "nombre": "Login con Redux",
+      "imagen": "",
+      "descripcion": "E-commerce",
+      "base": "react redux, react, javascript, css",
+      "github": "https://github.com/noeliamodica/React_ProyectoLoginconRedux"
     }
+
 
   ],
   "projects": [
@@ -77,11 +86,11 @@
     },
     {
       "id": 3,
-      "nombre": "Biblioteca digital",
+      "nombre": "Lima ensaladas en React",
       "imagen": "",
-      "descripcion": "Es una base de datos  uso del personal de la misma, ya que iniciando sesion se puede consultar, editar y eliminar datos de los mismos.",
+      "descripcion": "Local de venta de ensaladas",
       "base": "react, javascript, css",
-      "github": "https://github.com/noeliamodica/React_ProyectoBibliotecaDeLibros"
+      "github": "https://github.com/noeliamodica/React_ProyectoLimaEnsaladas-"
     },
     {
       "id": 4,
@@ -93,11 +102,11 @@
     },
     {
       "id": 5,
-      "nombre": "Books Shop",
+      "nombre": "Biblioteca digital",
       "imagen": "",
-      "descripcion": "Web de venta de libros",
+      "descripcion": "Es una base de datos  uso del personal de la misma, ya que iniciando sesion se puede consultar, editar y eliminar datos de los mismos.",
       "base": "react, javascript, css",
-      "github": "https://github.com/noeliamodica/React_ProyectoBooksShop"
+      "github": "https://github.com/noeliamodica/React_ProyectoBibliotecaDeLibros"
     },
     {
       "id": 5,
