@@ -42,6 +42,14 @@
     },
     {
       "id": 6,
+      "nombre": "Agenda",
+      "imagen": "",
+      "descripcion": "Registro de tareas diarias",
+      "base": "firabase, react, javascript, css",
+      "github": "https://github.com/noeliamodica/React_ProyectoAgendaconBootstrap"
+    },
+    {
+      "id": 7,
       "nombre": "Buscador",
       "imagen": "",
       "descripcion": "Barra de busqueda de personas, eventos y emails filtrando por categorias ",
@@ -49,7 +57,7 @@
       "github": "https://github.com/noeliamodica/React_ProyectoBuscador"
     },
     {
-      "id": 7,
+      "id": 8,
       "nombre": "E-commerce",
       "imagen": "",
       "descripcion": "Pagina web similar a Mercado Libre",
@@ -57,7 +65,7 @@
       "github": "https://github.com/noeliamodica/ml"
     },
     {
-      "id": 8,
+      "id": 9,
       "nombre": "Login con Redux",
       "imagen": "",
       "descripcion": "E-commerce",
@@ -65,7 +73,7 @@
       "github": "https://github.com/noeliamodica/React_ProyectoLoginconRedux"
     },
     {
-      "id": 9,
+      "id": 10,
       "nombre": "Login con firabase",
       "imagen": "",
       "descripcion": "Proceso de register y login con firabase",
@@ -73,33 +81,22 @@
       "github": "https://github.com/noeliamodica/React_ProyectoLoginConFirebase"
     },
     {
-      "id": 10,
+      "id": 11,
       "nombre": "React Native con Expo",
       "imagen": "",
       "descripcion": "App para registro de notas personales con proceso de registro y login en firabase",
       "base": "firabase, react native, javascript, css",
       "github": "https://github.com/noeliamodica/React_Native-ProyectoconFirebase/tree/main"
     },
+    
     {
-      "id": 11,
+      "id": 12,
       "nombre": "Automatizacion de proyecto",
       "imagen": "",
       "descripcion": "Proceso de envio automatico de mensaje por telegram",
       "base": "python, autoGUI",
       "github": "https://github.com/noeliamodica/Python_AutomationwithPyAutoGUI-Telegram-"
-    },
-    {
-      "id": 12,
-      "nombre": "Agenda",
-      "imagen": "",
-      "descripcion": "Registro de tareas diarias",
-      "base": "firabase, react, javascript, css",
-      "github": "https://github.com/noeliamodica/React_ProyectoAgendaconBootstrap"
     }
-
-    
-
-
   ],
   "projects": [
     {
@@ -120,7 +117,7 @@
     },
     {
       "id": 3,
-      "nombre": "Lima ensaladas en React",
+      "nombre": "Lima ensaladas en React",    
       "imagen": "",
       "descripcion": "Local de venta de ensaladas",
       "base": "react, javascript, css",
@@ -135,78 +132,20 @@
       "github": "https://github.com/noeliamodica/React_ProyectoMovies"
     },
     {
+      "id": 6,
+      "nombre": "E-commerce",
+      "imagen": "",
+      "descripcion": "E-commerce con backend en django" ,
+      "base": "django, react redux, react, javascript, css",
+      "github": "https://github.com/noeliamodica/React_ProyectoE-CommerceconDjango"
+    },
+    {
       "id": 5,
       "nombre": "Biblioteca digital",
       "imagen": "",
       "descripcion": "Es una base de datos  uso del personal de la misma, ya que iniciando sesion se puede consultar, editar y eliminar datos de los mismos.",
       "base": "react, javascript, css",
       "github": "https://github.com/noeliamodica/React_ProyectoBibliotecaDeLibros"
-    },
-    {
-      "id": 5,
-      "nombre": "Pastrón",
-      "base": "Rúcula y fideos(penne rigatti)",
-      "aderezo": "Reducción de aceto balsámico",
-      "ingredientes": "Rúcula, penne rigatti, pastrón feteado, queso tybo en cubos, morron rojo de conserva, nueces y reducción dulce de aceto balsámico.",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRitFrGuaVyDINMG9IWJ0KIQY0Gb4Bad0pm9SrG71ftcHsJj8ATWiNgP-2NPQf3XDH9OKA&usqp=CAU",
-      "precio": 870
-    },
-    {
-      "id": 6,
-      "nombre": "Peras",
-      "base": "Rúcula",
-      "aderezo": "Vinagreta (Oliva, Aceto, Vinagre y Pimienta)",
-      "ingredientes": "Rúcula, pollo, queso azul, nueces, peras en almíbar y vinagreta.",
-      "imagen": "https://www.recetasjudias.com/wp-content/uploads/2015/12/Ensalada-de-Peras-y-Nueces-caramelizadas.jpg",
-      "precio": 850
-    },
-    {
-      "id": 8,
-      "nombre": "Crudo",
-      "base": "Rúcula y fideos(penne rigatti)",
-      "aderezo": "Reducción dulce de aceto balsámico y pesto genovés",
-      "ingredientes": "Rúcula, penne rigatti, jamón crudo feteado, queso mozzarela en trozos, tomates secos, reducción dulce de aceto balsámico y pesto genovés.",
-      "imagen": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2020/09/ensalada-de-brocoli-con-mayonesa-receta.jpg",
-      "precio": 870
-    },
-    {
-      "id": 9,
-      "nombre": "Brie",
-      "base": "Mix de verdes",
-      "aderezo": "Mostaza y miel",
-      "ingredientes": "Mix de verdes, pollo, queso brie, tomates cherrys, croûtons, nueces, y aderezo de mostaza y miel.",
-      "imagen": "https://okdiario.com/img/2014/07/08/ensalada-de-rucula-y-queso-brie.jpg",
-      "precio": 870
-    },
-    {
-      "id": "10",
-      "nombre": "Atún",
-      "base": "Rúcula",
-      "aderezo": "Vinagreta",
-      "ingredientes": "Mix de verdes, atún de lata (en lomitos), brócoli, arroz yamani, tomates cherrys, cebolla morada y vinagreta.",
-      "imagen": "https://i1.wp.com/irecetasfaciles.com/wp-content/uploads/2021/09/Ensalada-de-atun.jpg?fit=1280%2C720&ssl=1",
-      "precio": 750
-    },
-    {
-      "nombre": "Frutilla",
-      "base": "Rúcula",
-      "aderezo": "Reducción de Aceto Balsámico",
-      "ingredientes": "Rúcula, frutilla, panceta, queso brie, nueces y reducción dulce de aceto balsámico.",
-      "precio": 870,
-      "id": "ensalada1669933701639",
-      "imagen": "http://www.lucullus.ar/wp-content/themes/lucullus2/common/image.php?image=http://www.lucullus.ar/wp-content/uploads/2016/09/Salade-fraise-avocat.jpg&width=750&height=450&cropratio=false"
-    },
-    {
-      "name": "Dario",
-      "email": "dario@gmail.com",
-      "password": "dario2023",
-      "id": "qFg5aHN"
-    },
-    {
-      "name": "Dario",
-      "email": "dario@gmail.com",
-      "password": "dario2023",
-      "id": "RwjK3cW"
     }
   ]
 }
