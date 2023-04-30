@@ -79,7 +79,24 @@
       "descripcion": "App para registro de notas personales con proceso de registro y login en firabase",
       "base": "firabase, react native, javascript, css",
       "github": "https://github.com/noeliamodica/React_Native-ProyectoconFirebase/tree/main"
+    },
+    {
+      "id": 11,
+      "nombre": "Automatizacion de proyecto",
+      "imagen": "",
+      "descripcion": "Proceso de envio automatico de mensaje por telegram",
+      "base": "python, autoGUI",
+      "github": "https://github.com/noeliamodica/Python_AutomationwithPyAutoGUI-Telegram-"
+    },
+    {
+      "id": 12,
+      "nombre": "Agenda",
+      "imagen": "",
+      "descripcion": "Registro de tareas diarias",
+      "base": "firabase, react, javascript, css",
+      "github": "https://github.com/noeliamodica/React_ProyectoAgendaconBootstrap"
     }
+
     
 
 
