@@ -3,7 +3,7 @@
     {
       "id": 1,
       "nombre": "Testimonios",
-      "imagen": "",
+      "imagen": "./src/assets/Testimonios.png",
       "descripcion": "muestra testimonios de alumnos",
       "base": "react, javascript",
       "github": "https://github.com/noeliamodica/React_ProyectoTestimonios"
@@ -102,7 +102,7 @@
     {
       "id": 1,
       "nombre": "Proyecto Universidad",
-      "imagen": "",
+      "imagen": "./src/assets/Testimonios.png",
       "descripcion": "Es una base de datos de carreras, profesores y estudiantes de la Universidad Argentina, para uso del personal de la misma, ya que iniciando sesion se puede consultar, editar y eliminar datos de los mismos.",
       "base": "python, django",
       "github": "https://github.com/noeliamodica/proyectouniversidad"
@@ -146,6 +146,14 @@
       "descripcion": "Es una base de datos  uso del personal de la misma, ya que iniciando sesion se puede consultar, editar y eliminar datos de los mismos.",
       "base": "react, javascript, css",
       "github": "https://github.com/noeliamodica/React_ProyectoBibliotecaDeLibros"
+    },
+    {
+      "id": 6,
+      "nombre": "Portfolio Personal",
+      "imagen": "",
+      "descripcion": "Portfolio personal",
+      "base": "react, javascript, css",
+      "github": "https://github.com/noeliamodica/React_ProyectoPortfolioPersonal-"
     }
   ]
 }
