@@ -19,7 +19,7 @@
     {
       "id": 3,
       "nombre": "Calculadora",
-      "imagen": "",
+      "imagen": "./../Calculadora.png",
       "descripcion": "calculadora",
       "base": "react, javascript, css ",
       "github": "https://github.com/noeliamodica/reactCalculadora"
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "nombre": "Lista de tareas",
-      "imagen": "",
+      "imagen": "./../Lista de tareas.png",
       "descripcion": "lista de tareas con opcion de editar y eliminar las mismas",
       "base": "react, javascript, css ",
       "github": "https://github.com/noeliamodica/React_ProyectoListaDeTareas"
@@ -35,7 +35,7 @@
     {
       "id": 5,
       "nombre": "Selector de emojis",
-      "imagen": "",
+      "imagen": "./../Emojis.png",
       "descripcion": "permite seleccionar e incorporar emojis dentro de un chat",
       "base": "react, javascript, css ",
       "github": "https://github.com/noeliamodica/React_ProyectoSelectorDeEmojis"
@@ -43,7 +43,7 @@
     {
       "id": 6,
       "nombre": "Agenda",
-      "imagen": "",
+      "imagen": "./../Agenda.png",
       "descripcion": "Registro de tareas diarias",
       "base": "firabase, react, javascript, css",
       "github": "https://github.com/noeliamodica/React_ProyectoAgendaconBootstrap"
@@ -51,7 +51,7 @@
     {
       "id": 7,
       "nombre": "Buscador",
-      "imagen": "",
+      "imagen": "./../Buscador.png",
       "descripcion": "Barra de busqueda de personas, eventos y emails filtrando por categorias ",
       "base": "react, javascript, css",
       "github": "https://github.com/noeliamodica/React_ProyectoBuscador"
@@ -59,7 +59,7 @@
     {
       "id": 8,
       "nombre": "E-commerce",
-      "imagen": "",
+      "imagen": "./../ml.png",
       "descripcion": "Pagina web similar a Mercado Libre",
       "base": "javascript,html, css",
       "github": "https://github.com/noeliamodica/ml"
@@ -67,7 +67,7 @@
     {
       "id": 9,
       "nombre": "Login con Redux",
-      "imagen": "",
+      "imagen": "./../Login-Redux.png",
       "descripcion": "E-commerce",
       "base": "react redux, react, javascript, css",
       "github": "https://github.com/noeliamodica/React_ProyectoLoginconRedux"
@@ -75,7 +75,7 @@
     {
       "id": 10,
       "nombre": "Login con firabase",
-      "imagen": "",
+      "imagen": "./../Firabase-login.png", 
       "descripcion": "Proceso de register y login con firabase",
       "base": "firabase, react, javascript, css",
       "github": "https://github.com/noeliamodica/React_ProyectoLoginConFirebase"
@@ -83,7 +83,7 @@
     {
       "id": 11,
       "nombre": "React Native con Expo",
-      "imagen": "",
+      "imagen": "./../React-Native.png", 
       "descripcion": "App para registro de notas personales con proceso de registro y login en firabase",
       "base": "firabase, react native, javascript, css",
       "github": "https://github.com/noeliamodica/React_Native-ProyectoconFirebase/tree/main"
@@ -92,7 +92,7 @@
     {
       "id": 12,
       "nombre": "Automatizacion de proyecto",
-      "imagen": "",
+      "imagen": "https://drive.google.com/file/d/1xKbcHd0cgdkPVB6EHWPa_LqA9KVmUGKq/view",
       "descripcion": "Proceso de envio automatico de mensaje por telegram",
       "base": "python, autoGUI",
       "github": "https://github.com/noeliamodica/Python_AutomationwithPyAutoGUI-Telegram-"
