@@ -20,7 +20,7 @@
       "id": 3,
       "nombre": "Proyecto Universidad",
       "imagen": "./../universidad.png",
-      "descripcion": "Base de datos de carreras, profesores y estudiantes. Iniciando sesion se puede consultar, editar y eliminar datos de los mismos.",
+      "descripcion": "Base de datos de carreras, profesores y estudiantes",
       "base": "python, django",
       "github": "https://github.com/noeliamodica/proyectouniversidad"
     },
@@ -44,7 +44,7 @@
       "id": 6,
       "nombre": "Biblioteca digital",
       "imagen": "./../Biblioteca-libros.png",
-      "descripcion": "Es una base de datos  uso del personal de la misma, ya que iniciando sesion se puede consultar, editar y eliminar datos de los mismos.",
+      "descripcion": "Base digital de libros",
       "base": "react, javascript, css",
       "github": "https://github.com/noeliamodica/React_ProyectoBibliotecaDeLibros"
     },
@@ -67,8 +67,8 @@
     {
       "id": 9,
       "nombre": "React Native con Expo",
-      "imagen": "./../Native.jpeg", 
-      "descripcion": "App para registro de notas personales con proceso de registro y login en firabase",
+      "imagen": "./../Native2.jpeg", 
+      "descripcion": "App para registro de notas personales",
       "base": "firabase, react native, javascript, css",
       "github": "https://github.com/noeliamodica/React_Native-ProyectoconFirebase/tree/main"
     },
@@ -76,7 +76,7 @@
       "id": 10,
       "nombre": "Login con Redux",
       "imagen": "./../Login-Redux.png",
-      "descripcion": "E-commerce",
+      "descripcion": "E-commerce con react redux",
       "base": "react redux, react, javascript, css",
       "github": "https://github.com/noeliamodica/React_ProyectoLoginconRedux"
     },
@@ -109,7 +109,7 @@
       "id": 14,
       "nombre": "Calculadora",
       "imagen": "./../Calculadora.png",
-      "descripcion": "calculadora",
+      "descripcion": "Calculadora",
       "base": "react, javascript, css ",
       "github": "https://github.com/noeliamodica/reactCalculadora"
     },
@@ -117,7 +117,7 @@
       "id": 15,
       "nombre": "Lista de tareas",
       "imagen": "./../Lista de tareas.png",
-      "descripcion": "lista de tareas con opcion de editar y eliminar las mismas",
+      "descripcion": "Lista de tareas con opcion de editar y eliminar las mismas",
       "base": "react, javascript, css ",
       "github": "https://github.com/noeliamodica/React_ProyectoListaDeTareas"
     },
@@ -125,7 +125,7 @@
       "id": 16,
       "nombre": "Selector de emojis",
       "imagen": "./../Emojis.png",
-      "descripcion": "permite seleccionar e incorporar emojis dentro de un chat",
+      "descripcion": "Permite seleccionar e incorporar emojis dentro de un chat",
       "base": "react, javascript, css ",
       "github": "https://github.com/noeliamodica/React_ProyectoSelectorDeEmojis"
     },
@@ -149,7 +149,7 @@
       "id": 19,
       "nombre": "Contador de clics",
       "imagen": "./../contador-clics.png",
-      "descripcion": "muestra testimonios de alumnos",
+      "descripcion": "Contador de clics",
       "base": "react, javascript",
       "github": "https://github.com/noeliamodica/React_ProyectoTestimonios"
     },
@@ -157,7 +157,7 @@
       "id": 20,
       "nombre": "Testimonios",
       "imagen": "./../Testimonios.png",
-      "descripcion": "muestra testimonios de alumnos",
+      "descripcion": "Muestra testimonios de alumnos",
       "base": "react, javascript",
       "github": "https://github.com/noeliamodica/React_ProyectoTestimonios"
     }

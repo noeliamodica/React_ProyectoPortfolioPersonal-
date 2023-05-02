@@ -42,12 +42,12 @@ const Portfolio = () => {
             className='imagen'
             alt={project.nombre}
         />
-        <div>
+        <div className='item-d'>
         {project.descripcion}
         </div>
-        <button>
-        {project.github}
-        </button>
+        <div className='item-g'>
+        <a href={project.github} > Github </a>
+        </div>
         
        </div>
 
