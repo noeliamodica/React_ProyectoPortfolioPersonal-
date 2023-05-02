@@ -62,15 +62,15 @@ header {
 
 .me {
   
-    width: 22 rem;
-    height: 22rem;
+    width: 26 rem;
+    height: 26rem;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
     margin: 4rem;
     border-radius: 90%;
     overflow: hidden;
-    transform: rotate(13deg);
+    transform: rotate(6deg);
     
 }
 
