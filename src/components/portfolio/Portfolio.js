@@ -1,3 +1,4 @@
+import React from 'react';
 import './Portfolio.css'
 import projects from './db.json'
 import Carousel from 'react-multi-carousel';
