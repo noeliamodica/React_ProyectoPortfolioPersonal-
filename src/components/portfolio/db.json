@@ -20,7 +20,7 @@
       "id": 3,
       "nombre": "Proyecto Universidad",
       "imagen": "./../universidad.png",
-      "descripcion": "Es una base de datos de carreras, profesores y estudiantes. Iniciando sesion se puede consultar, editar y eliminar datos de los mismos.",
+      "descripcion": "Base de datos de carreras, profesores y estudiantes. Iniciando sesion se puede consultar, editar y eliminar datos de los mismos.",
       "base": "python, django",
       "github": "https://github.com/noeliamodica/proyectouniversidad"
     },
@@ -67,7 +67,7 @@
     {
       "id": 9,
       "nombre": "React Native con Expo",
-      "imagen": "./../React-Native.png", 
+      "imagen": "./../Native.jpeg", 
       "descripcion": "App para registro de notas personales con proceso de registro y login en firabase",
       "base": "firabase, react native, javascript, css",
       "github": "https://github.com/noeliamodica/React_Native-ProyectoconFirebase/tree/main"
