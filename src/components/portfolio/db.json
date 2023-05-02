@@ -92,7 +92,7 @@
     {
       "id": 12,
       "nombre": "Automatizacion de proyecto",
-      "imagen": "https://drive.google.com/file/d/1xKbcHd0cgdkPVB6EHWPa_LqA9KVmUGKq/view",
+      "imagen": "./../autogui.png",
       "descripcion": "Proceso de envio automatico de mensaje por telegram",
       "base": "python, autoGUI",
       "github": "https://github.com/noeliamodica/Python_AutomationwithPyAutoGUI-Telegram-"
