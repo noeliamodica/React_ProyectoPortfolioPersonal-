@@ -20,7 +20,7 @@
       "id": 3,
       "nombre": "Proyecto Universidad",
       "imagen": "./../universidad.png",
-      "descripcion": "Es una base de datos de carreras, profesores y estudiantes de la Universidad Argentina, para uso del personal de la misma, ya que iniciando sesion se puede consultar, editar y eliminar datos de los mismos.",
+      "descripcion": "Es una base de datos de carreras, profesores y estudiantes. Iniciando sesion se puede consultar, editar y eliminar datos de los mismos.",
       "base": "python, django",
       "github": "https://github.com/noeliamodica/proyectouniversidad"
     },

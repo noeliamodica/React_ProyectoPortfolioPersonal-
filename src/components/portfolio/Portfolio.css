@@ -1,11 +1,17 @@
-.portfolio_container{
+.portfolio_container{   
+    gap: 16px;
     display: grid;
-    grid-template-columns: 51% 51%;  
-    gap: 36px;
-    width: 90%;
-    margin: 40px auto;
-    padding: 20px;
+    grid-template-columns: auto auto auto auto;    
+    line-height: 60px;
 }
+
+.item-p {
+    border-radius: 10rem;
+    padding: 1.1rem;
+    text-align: center;
+    opacity: 0.87;
+}
+
 
 .imagen{
     border-radius: 15px ;
