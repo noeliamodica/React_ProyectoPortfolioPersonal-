@@ -1,0 +1,12 @@
+.portfolio_container{
+    display: grid;
+    grid-template-columns: 51% 51%;  
+    gap: 36px;
+    width: 90%;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.imagen{
+    border-radius: 15px ;
+}

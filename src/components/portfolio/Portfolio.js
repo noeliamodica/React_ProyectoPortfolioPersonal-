@@ -1,4 +1,3 @@
-
 import './Portfolio.css'
 import projects from './db.json'
 
@@ -7,24 +6,33 @@ const Portfolio = () => {
   console.log(projects)
 
   return (
-    <div>
+    <section id='portfolio'>
+      <h2> Mis proyectos </h2>
+    <div className='portfolio_container'> 
+      {projects.map((project) => (
+        <div>
+        <div>
+        {project.nombre}
+        </div>
+        <img
+            src={project.imagen}
+            className='imagen'
+            alt={project.nombre}
+        />
+        <div>
+        {project.descripcion}
+        </div>
+        <button>
+        {project.github}
+        </button>
+       </div>
 
-        {projects.map((project) => (
-                        <div className='logo-contenedor'>
-                        <img
-                        src={project.imagen}
-                        className='imagen'
-                        alt={project.nombre} />
-                        <div>
-                            {project.nombre}
-                        </div>
-                  </div>
-
-                            ))
-                        }
+         ))
+        }
                         
                 
-        </div>
+    </div>
+    </section>
   );
 };
 
